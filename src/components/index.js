@@ -4,6 +4,7 @@ import Container from "./Container/Container"
 import Logo from "./Logo"
 import LogoutBtn from "./Header/LogoutBtn"
 import Input from "./Input"
+import RTE from "./RTE"
 
 export{
     Header,
@@ -11,5 +12,6 @@ export{
     Container,
     Logo,
     LogoutBtn,
-    Input
+    Input,
+    RTE
 }
